@@ -10,7 +10,7 @@ This work utilized two data corpora available for non-commercial use.
 
 Method
 
-Separate models were trained from scratch for texts from each of the available corpora. According to the training procedure, words from the corpus are tokenized and vectorized. Vectors representing words are called embeddings or vector representations. According to the distributional hypothesis (see, e.g., [15]), two linguistic units occurring in similar contexts tend to be close to each other in the model's vector space, and the distances between their corresponding vector representations reflect a measure of their semantic similarity.
+Separate models were trained from scratch for texts from each of the available corpora. According to the training procedure, words from the corpus are tokenized and vectorized. Vectors representing words are called embeddings or vector representations. According to the distributional hypothesis, two linguistic units occurring in similar contexts tend to be close to each other in the model's vector space, and the distances between their corresponding vector representations reflect a measure of their semantic similarity.
 The cosine similarity measure is used as a measure of similarity between two vectors.
 
 Results
