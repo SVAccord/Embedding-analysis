@@ -1,5 +1,5 @@
 # Embedding-analysis
-The idea is to study the embeddings of Bert models trained from scratch.
+The idea is to study the embeddings of Bert models trained from scratch. American and Russian newspaper publications were used.
 
 There were two major attempts within this project.
 
