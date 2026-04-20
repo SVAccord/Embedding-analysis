@@ -1,2 +1,2 @@
 # Embedding-analysis
-I train models and research their embeddings
+The idea is to study the embeddings of Bert models trained from scratch.
